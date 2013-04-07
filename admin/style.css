@@ -1,0 +1,60 @@
+@charset "UTF-8";
+/* Admin CSS Document */
+
+#main {
+	width: 760px;
+	margin: auto;
+	text-align: center;
+}
+body {
+	background: #CFC;
+}
+#main_admin {
+	text-align: left;
+	padding-left: 30px;
+}
+.approve {
+	color: #093;
+	cursor: pointer;
+}
+.delete {
+	color: #c00;
+	cursor: pointer;
+}
+.edit {
+	float: right;
+	color: #603;
+	font-weight: bold;
+	cursor: pointer;
+}
+.toplinks a {
+	color: #00C;
+	text-decoration:none;
+	display: inline-block;
+	padding-right: 18px;
+}
+.toplinks a:hover {
+	text-decoration: underline;
+}
+a.logout {
+	color: #c00;
+	text-decoration: underline;
+}
+.codes {
+	background: #CCC;
+	border-radius: 3px;
+	padding: 10px;
+}
+.code {
+	color: #111;
+	text-shadow: #fff 0px 2px 1px;
+	text-transform: uppercase;
+	font-family: Tahoma, Verdana, Geneva, sans-serif;
+}
+a {
+	color: #00C;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}

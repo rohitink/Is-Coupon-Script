@@ -1,0 +1,1 @@
+&copy; Your Site Name 2012. | <a href="contact.php">Contact Us</a> | You can Edit this section from the <a href='admin/'>Admin Panel</a>.
